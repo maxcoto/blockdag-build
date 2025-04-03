@@ -8,13 +8,12 @@ export default function References() {
                 <h1 className="text-3xl font-bold">References</h1>
                 <div>
                     <ul className="list-disc list-inside">
-                        <li><a href="https://blockdag.network/" className="text-gray-200 hover:underline">BlockDAG: Website</a></li>
-                        <li><a href="https://docs.blockdagnetwork.io/" className="text-gray-200 hover:underline">Documentation</a></li>
-                        <li><a href="https://blockdag.network/developer-hub" className="text-gray-200 hover:underline">Developer Hub</a></li>
-                        <li><a href="https://grants.blockdag.network/" className="text-gray-200 hover:underline">Grants</a></li>
-                        <li><a href="https://blockdag.network/dev-releases#get-involved" className="text-gray-200 hover:underline">Roadmap & Releases</a></li>
-                        <li><a href="https://primordial.bdagscan.com/" className="text-gray-200 hover:underline">Explorer</a></li>
-                        <li><a href="/" className="text-gray-200 hover:underline">Discord</a></li>
+                        <li><a href="https://discord.gg/GwYJu4Vr" className="text-gray-200 text-lg underline hover:text-[#030d43]">BlockDAG builder Discord</a></li>
+                        <li><a href="https://docs.blockdagnetwork.io/" className="text-gray-200 text-lg underline hover:text-[#030d43]">Documentation</a></li>
+                        <li><a href="https://blockdag.network/developer-hub" className="text-gray-200 text-lg underline hover:text-[#030d43]">Developer Hub</a></li>
+                        <li><a href="https://grants.blockdag.network/" className="text-gray-200 text-lg underline hover:text-[#030d43]">Grants</a></li>
+                        <li><a href="https://blockdag.network/dev-releases#get-involved" className="text-gray-200 text-lg underline hover:text-[#030d43]">Roadmap & Releases</a></li>
+                        <li><a href="https://primordial.bdagscan.com/" className="text-gray-200 text-lg underline hover:text-[#030d43]">Explorer</a></li>
                     </ul>
                 </div>
             </div>
