@@ -12,7 +12,6 @@ export default function References() {
                         <li><a href="https://docs.blockdagnetwork.io/" className="text-gray-200 text-lg underline hover:text-[#030d43]">Documentation</a></li>
                         <li><a href="https://blockdag.network/developer-hub" className="text-gray-200 text-lg underline hover:text-[#030d43]">Developer Hub</a></li>
                         <li><a href="https://grants.blockdag.network/" className="text-gray-200 text-lg underline hover:text-[#030d43]">Grants</a></li>
-                        <li><a href="https://blockdag.network/dev-releases#get-involved" className="text-gray-200 text-lg underline hover:text-[#030d43]">Roadmap & Releases</a></li>
                         <li><a href="https://primordial.bdagscan.com/" className="text-gray-200 text-lg underline hover:text-[#030d43]">Explorer</a></li>
                     </ul>
                 </div>
